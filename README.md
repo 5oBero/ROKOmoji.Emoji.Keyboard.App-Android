@@ -13,7 +13,7 @@ Should you have any questions or concerns, feel free to email us at help@rokolab
 No need to spend time creating features from scratch or paying for a developer. Our open-sourced app includes multiple types of custom app features.
 
 1. Multiple sticker packs supported within one app
-2. User onboarding experience in app
+2. User on-boarding experience in app
 3. Logo branding
 4. Static and animated stickers
 5. Stickers can be sent in email, messenger, SMS, and more!
@@ -35,19 +35,16 @@ value: API key of your ROKO Mobi portal application (see below for ROKO Mobi por
 ## About ROKO Mobi
 ROKO Mobi provides app developers and product owners with a suite of tools to accelerate mobile development, engage and track customers, and measure their app's success. A few things we do:
 
-1. InstaBot (add a chatbot into your app)
-2. Refer-a-Friend
-3. Share
-4. User Analytics
-5. Promo codes
-6. Push notifications
-7. Stickers
+1. Instabot (add a chatbot into your app)
+2. User Analytics
+3. Push notifications
+4. Stickers
 
 Learn more about features at:
 https://roko.mobi
 
 See here for ROKO Mobi documentation, interaction guides, and instructions:
-https://docs.roko.mobi/docs/setting-up-your-account
+https://docs.roko.mobi/docs/roko-android-keyboard
 
 ## Activate your New Keyboard
 Run application on device or emulator and follow the instructions on the main screen.
