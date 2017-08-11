@@ -44,7 +44,7 @@ Learn more about features at:
 https://roko.mobi
 
 See here for ROKO Mobi documentation, interaction guides, and instructions:
-https://docs.roko.mobi/docs/roko-android-keyboard
+https://docs.roko.mobi/v2.0/docs/roko-android-keyboard
 
 ## Activate your New Keyboard
 Run application on device or emulator and follow the instructions on the main screen.
